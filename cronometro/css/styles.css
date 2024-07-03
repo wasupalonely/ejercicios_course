@@ -1,0 +1,44 @@
+@import url('https://fonts.google.com/css2?family=Poppins:wght@400;500;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+body {
+    background-color: white;
+}
+
+.stopWatch {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../images/unnamed.jpg);
+    max-width: 600px;
+    background-size: cover;
+    background-position: center;
+    padding: 40px 0;
+    margin: 200px auto 0;
+    text-align: center;
+    color: white;
+}
+
+.stopWatch h1 {
+    font-size: 88px;
+    margin: 50px 0;
+}
+
+.controls {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.stopWatch img {
+    width: 60px;
+    margin: 0 30px;
+    cursor: pointer;
+}
+
+.stopWatch img:nth-child(2) {
+    width: 90px;
+}
