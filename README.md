@@ -43,4 +43,4 @@ El repositorio está organizado en carpetas, cada una correspondiente a un ejerc
 - ...
 
 4. **Abrir el archivo index.html en tu navegador o editor de código preferido.**
->>>>>>> 77dcb791545c245402ae9330a5273dadecc9d5dd
+
